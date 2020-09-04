@@ -35,6 +35,7 @@ public class Main {
         //task 4//
         for(String out5: args){
             System.out.println(out5);
+            System.out.println(out5);
         }
         //end task 4//
     }
